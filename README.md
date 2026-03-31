@@ -8,12 +8,12 @@
  
 Buenass me llamo Celeste Melody Condori Espejo, soy estudiante de ingeneria en sistemas y estoy actualmente cursando materias de segundo año, 
 me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carrera de ing. en sistemas. Ademas de la tecnologia, me gusta la naturaleza, ya sea animales o paisajes. 
-
+ <p align="center"> yop </p>   
 <p align="center">
 
  <img width="221" height="271" alt="image" src="https://github.com/user-attachments/assets/18c9e734-c5db-4366-b240-f1a06a2348ca" />
 
-</p>  yop
+</p>   yop
 
 
 Dato: ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
