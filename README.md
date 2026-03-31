@@ -4,13 +4,26 @@
 </p>  
 
 ## **✨Celeste Melody Condori Espejo**
+-Legajo : 222.236-0
  
 Buenass me llamo Celeste Melody Condori Espejo, soy estudiante de ingeneria en sistemas y estoy actualmente cursando materias de segundo año, 
-me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carrera de ing. en sistemas.
-dato no interesante: A los 10 años tuve mi primera computadora, desde ahi empezo mi pasion por estas, queriendo mejorar el funcionamiento de mi pc a empezar ver como funciona el mcm del SSOO.
+me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carrera de ing. en sistemas. Ademas de la tecnologia, me gusta la naturaleza, ya sea animales o paisajes. adjunto mis fotos favoritas.
+
+
+
+
 
 Algo que rescato de mi primer año ing es que _"El que Persevera, alcanza"._ 
 espero que haya sido una linda presentacion.
 
 Saludosssss
 
+
+
+
+
+
+
+
+
+dato no interesante: A los 10 años tuve mi primera computadora. 
