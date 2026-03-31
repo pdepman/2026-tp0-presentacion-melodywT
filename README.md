@@ -1,7 +1,8 @@
 # Paradigmas de Programacion   
 <p align="center">
 <img width="248" height="118" alt="image" src="https://github.com/user-attachments/assets/33ff2579-6510-447e-9a72-ddef8ee9053b" />
-</p>   
+</p>  
+
 ## **✨Celeste Melody Condori Espejo**
  
 Buenass me llamo Celeste Melody Condori Espejo, soy estudiante de ingeneria en sistemas y estoy actualmente cursando materias de segundo año, 
