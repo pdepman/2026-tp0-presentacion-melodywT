@@ -15,7 +15,7 @@ me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carre
 
 </p>   
 
-Dato: ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
+### Dato: ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
 
 <img width="644" height="362" alt="image" src="https://github.com/user-attachments/assets/0c0d6be0-74af-4842-81ca-329068363d01" />
 
