@@ -13,8 +13,7 @@ me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carre
 
  <img width="221" height="271" alt="image" src="https://github.com/user-attachments/assets/18c9e734-c5db-4366-b240-f1a06a2348ca" />
 
-</p>   yop
-
+</p>   
 
 Dato: ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
 
