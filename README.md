@@ -1,5 +1,5 @@
 # Paradigmas de Programacion   
-                  <img width="248" height="118" alt="image" src="https://github.com/user-attachments/assets/33ff2579-6510-447e-9a72-ddef8ee9053b" />
+   <img width="248" height="118" alt="image" src="https://github.com/user-attachments/assets/33ff2579-6510-447e-9a72-ddef8ee9053b" />
 
 ## **✨Celeste Melody Condori Espejo**
  
