@@ -19,7 +19,7 @@ me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carre
 
 -  ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
 -  otro dato menos curioso, tuve mi primera computadora a los 10 años que en consecuencia fue intermediario para que conozca cosas relacionadas a la arquitectura de computadoras. 
-
+- Actualmente no busco trabajo ya que trabajo como Tesorera en una cancha de Futbol , el año pasado me ofrecieron ser ayudante de ADC pero por el tema horarios lo tuve que rechazar :-(.  
 <img width="644" height="362" alt="image" src="https://github.com/user-attachments/assets/0c0d6be0-74af-4842-81ca-329068363d01" />
 
 
