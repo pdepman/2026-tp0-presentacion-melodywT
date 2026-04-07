@@ -25,6 +25,9 @@ me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carre
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 → Algo que rescato de mi primer año ing es que _"El que Persevera, alcanza"._ 
 espero que haya sido una linda presentacion. <br> 
