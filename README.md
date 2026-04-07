@@ -15,6 +15,14 @@ me apasiona la tecnologia, se podria decir que esto me impulso a seguir la carre
 
 </p>   
 
+
+- Adjunto mi humilde progreso de la carrera. 
+
+<p align="center">
+  < <img width="4972" height="3110" alt="subjects-graph-frba-k23" src="https://github.com/user-attachments/assets/aa07342f-a427-4062-b845-f800973684ac" />
+>
+</p>
+
 ### DATOS CURISOS : 
 
 -  ¿Sabian que el mitico fondo de windows no esta hecho por computadora? 
